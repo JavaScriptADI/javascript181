@@ -24,7 +24,7 @@
 </details>
 
 <details>
-    <summary>Workshop 1</summary>
+    <summary>Workshop 2</summary>
     <br>
     <ul>
         <li>Variables (let, const)</li>
