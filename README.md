@@ -39,3 +39,16 @@
         <li>Comments</li>
     </ul>
 </details>
+
+
+<details>
+    <summary>Workshop 3</summary>
+    <br>
+    <ul>
+        <li>Built-in functions (prompt; Math.min; Math.max; Math.pow; Math.sqrt)</li>
+        <li>Logical Operators (&&; ||; !)</li>
+        <li>Conditionals (if; else; else if)</li>
+        <li>Intentaiton and code blocks</li>
+        <li>Loops (while; for; continue; break)</li>
+    </ul>
+</details>
