@@ -42,13 +42,22 @@
 
 
 <details>
-    <summary>Workshop 3</summary>
+    <summary>Workshop 3 (Conditionals)</summary>
     <br>
     <ul>
         <li>Built-in functions (prompt; Math.min; Math.max; Math.pow; Math.sqrt)</li>
         <li>Logical Operators (&&; ||; !)</li>
         <li>Conditionals (if; else; else if)</li>
         <li>Intentaiton and code blocks</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 4 (Loops & Data Structure - Array)</summary>
+    <br>
+    <ul>
+        <li>Arrays</li>
+        <li>Array methods (push; pop; shift; unshift; indexOf; includes; slice; splice)</li>
         <li>Loops (while; for; continue; break)</li>
     </ul>
 </details>
