@@ -5,6 +5,7 @@
 - [Git basics](https://www.youtube.com/watch?v=mJ-qvsxPHpY)
 - [Assignment 1](https://classroom.github.com/a/7EeIUJeS)
 - [Assignment 2](https://classroom.github.com/a/j2rELqlE)
+- [Assignment 3](https://classroom.github.com/a/nCIn-sLf)
 
 ### Resources
 - [JavaScript Book](https://1drv.ms/b/s!AmZJMrBsKhiOh8UDJDRDATZCy9M9VA?e=nbPyH9)
