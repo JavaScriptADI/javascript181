@@ -54,11 +54,25 @@
 </details>
 
 <details>
-    <summary>Workshop 4 (Loops & Data Structure - Array)</summary>
+    <summary>Workshop 4 (Loops)</summary>
     <br>
     <ul>
+        <li>Loops</li>
+        <li>Iteration</li>
+        <li>Code Blocks</li>
+        <li>For Loop</li>
+        <li>While Loop</li>
+        <li>continue</li>
+        <li>break</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 5 (Loops & Data Structure - Array)</summary>
+    <br>
+    <ul>
+        <li>Do While Loop</li>
         <li>Arrays</li>
         <li>Array methods (push; pop; shift; unshift; indexOf; includes; slice; splice)</li>
-        <li>Loops (while; for; continue; break)</li>
     </ul>
 </details>
