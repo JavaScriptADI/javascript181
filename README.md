@@ -7,6 +7,7 @@
 - [Assignment 2](https://classroom.github.com/a/j2rELqlE)
 - [Assignment 3](https://classroom.github.com/a/nCIn-sLf)
 - [Assignment 4](https://classroom.github.com/a/BmzrkhYS)
+- [Assignment 5](https://classroom.github.com/a/Ykoa4uAw)
 
 ### Resources
 - [JavaScript Book](https://1drv.ms/b/s!AmZJMrBsKhiOh8UDJDRDATZCy9M9VA?e=nbPyH9)
