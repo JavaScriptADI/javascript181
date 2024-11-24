@@ -8,6 +8,7 @@
 - [Assignment 3](https://classroom.github.com/a/nCIn-sLf)
 - [Assignment 4](https://classroom.github.com/a/BmzrkhYS)
 - [Assignment 5](https://classroom.github.com/a/Ykoa4uAw)
+- [Midterm](https://classroom.github.com/a/lrbNtaFn)
 
 ### Resources
 - [JavaScript Book](https://1drv.ms/b/s!AmZJMrBsKhiOh8UDJDRDATZCy9M9VA?e=nbPyH9)
