@@ -79,3 +79,39 @@
         <li>Array methods (push; pop; shift; unshift; indexOf; includes; slice; splice)</li>
     </ul>
 </details>
+
+
+<details>
+    <summary>Workshop 6 (Switch, Functions)</summary>
+    <br>
+    <ul>
+        <li>Switch</li>
+        <li>Functions</li>
+        <li>Function Call</li>
+        <li>Parameters & Arguments</li>
+        <li>Return Values</li>
+        <li>Scopes</li>
+        <li>Default Parameters</li>
+    </ul>
+</details>
+
+<details>
+    <summary>Workshop 7 (Functions, DOM)</summary>
+    <br>
+    <ul>
+        <li>Function Expressions</li>
+        <li>Arrow functions</li>
+        <li>Higher Order functions</li>
+        <li>Callback functions</li>
+        <li>Array methods (filter, map, reduce, forEach, find, sort)</li>
+        <li>DOM</li>
+        <li>Acessing Elements</li>
+        <li>Creating Elements</li>
+        <li>Appending Elements</li>
+        <li>Removing Elements</li>
+        <li>innerText, innerHTML</li>
+        <li>style</li>
+        <li>classList</li>
+        <li>Event Listeners</li>
+    </ul>
+</details>
