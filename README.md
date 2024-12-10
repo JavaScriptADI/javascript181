@@ -115,3 +115,17 @@
         <li>Event Listeners</li>
     </ul>
 </details>
+
+<details> 
+    <summary>Workshop 8 (Asynchronous JavaScript)</summary> 
+    <br> 
+    <ul> 
+        <li>Asynchronous Programming Concepts</li> 
+        <li>Callbacks Review</li> 
+        <li>Promises</li> 
+        <li>Async/Await</li>
+        <li>Error Handling in Asynchronous Code</li> 
+        <li>Using the Fetch API</li> 
+        <li>Working with APIs</li> 
+    </ul> 
+</details>
