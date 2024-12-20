@@ -129,3 +129,25 @@
         <li>Working with APIs</li> 
     </ul> 
 </details>
+
+<details> 
+    <summary>Workshop 9 (Objects, APIs)</summary> 
+    <br> 
+    <ul> 
+        <li>Objects and Properties</li>
+        <li>Nestings Objects</li>
+        <li>Working with APIs</li>
+    </ul> 
+</details>
+
+<details> 
+    <summary>Workshop 10 (Advanced Topics)</summary> 
+    <br> 
+    <ul> 
+        <li>Modules and Imports/Exports</li>
+        <li>Closures</li>
+        <li>Currying</li>
+        <li>Event Loop and Microtasks</li>
+        <li>Error Handling</li>
+    </ul> 
+</details>
