@@ -148,6 +148,15 @@
         <li>Closures</li>
         <li>Currying</li>
         <li>Event Loop and Microtasks</li>
+    </ul> 
+</details>
+
+
+<details>
+    <summary>Workshop 11 (Buildng slider)</summary> 
+    <br> 
+    <ul>
         <li>Error Handling</li>
+        <li>Slider</li>
     </ul> 
 </details>
