@@ -160,3 +160,13 @@
         <li>Slider</li>
     </ul> 
 </details>
+
+<details>
+    <summary>Workshop 12 (Buildng slider)</summary> 
+    <br> 
+    <ul>
+        <li>Local Storage</li>
+        <li>Session Storage</li>
+        <li>Cookies</li>
+    </ul> 
+</details>
